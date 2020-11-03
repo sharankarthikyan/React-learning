@@ -1,6 +1,6 @@
 ## Content
 
-How to use Components
+How to use Components and Semantic UI
 
 
 
